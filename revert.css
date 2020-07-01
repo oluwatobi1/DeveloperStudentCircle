@@ -1,6 +1,11 @@
 h1{
   background: blue;
 }
+
 h2{
   border: 2px;
+}
+body{
+  border-top: 5px;
+  padding: 3px;
 }
